@@ -2,6 +2,7 @@
 
 int main() { 
 	map<int, int> m;
+
 	//Access Camera
 	VideoCapture camera;
 	camera.open(0);
